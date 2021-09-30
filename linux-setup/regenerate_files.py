@@ -28,7 +28,10 @@ bloatware: Dict[str, str] = {
 # Gnome Mahjongg
 'Gnome Mahjongg': 'gnome-mahjongg',
 'Gnome Mines': 'gnome-mines',
-'Gnome Sudoku': 'gnome-sudoku'
+'Gnome Sudoku': 'gnome-sudoku',
+'AisleRiot Sollitaire': 'aisleriot',
+'Quadrapassel': 'quadrapassel',
+'Cheese': 'cheese'
 
 }}
 
